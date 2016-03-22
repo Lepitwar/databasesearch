@@ -1,0 +1,7 @@
+Run phase 1 then 2  then 
+phase 3:
+	rscore > < #
+	rdate > < #
+	pprice < > #
+	r:"word" //searchs reveiws
+	p:"word" //searches products
